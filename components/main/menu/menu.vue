@@ -1,5 +1,5 @@
 <template>
-  <div class="py-8 px-4 lg:px-8">
+  <div class="mb-4">
     <div class="grid grid-rows-3 gap-4 lg:grid-rows-3 lg:gap-8">
       <div class="grid grid-rows-6 gap-4">
         <p class="uppercase font-bold text-white">menu</p>

@@ -28,7 +28,7 @@
           >
         </div>
       </div>
-      <div
+      <!-- <div
         class="py-2 grid grid-rows-1 gap-5 absolute top-[70%] left-[10%] w-full md:w-auto"
       >
         <p class="font-bold text-white text-2xl">Populer Turnuvalar</p>
@@ -41,9 +41,7 @@
           </div>
           <div class="flex-1 md:inline-flex">
             <MainBodyItems3 />
-          </div>
-        </div>
-      </div>
+          </div> -->
     </div>
   </div>
 </template>
